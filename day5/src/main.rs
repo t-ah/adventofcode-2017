@@ -29,7 +29,7 @@ fn main() {
     }
 
     if part2 {
-        println!("Part 2: {}", count);    
+        println!("Part 2: {}", count);
     }
     else {
         println!("Part 1: {}", count);
